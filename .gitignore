@@ -1,0 +1,10 @@
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.svg
+*.psd
+*.eps
+
+**/slprj/
